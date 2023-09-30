@@ -1,7 +1,5 @@
-Hi there 👋 
-===================================
-I'm Tarathep Siriuthen
------------------
+Hi there, I'm Tarathep Siriuthen
+==================================
 
 I am a recent graduate in Software Engineer with a strong focus on Machine Learning, continuously learning Machine Learning and eager to apply my knowledge and skills to real-world Machine Learning Projects.
 
