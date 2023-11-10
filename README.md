@@ -1,7 +1,9 @@
 Hi there, I'm Tarathep Siriuthen
 ==================================
 
-I am a recent graduate in Software Engineer with a strong focus on Machine Learning, continuously learning and eager to apply my knowledge and skills to real-world Machine Learning Projects.
+I am a Software Engineer with a strong focus on Machine Learning, continuously learning and eager to apply my knowledge and skills to real-world Machine Learning Projects.
+
+Portfolio: http://ec2-18-143-199-71.ap-southeast-1.compute.amazonaws.com:8080/
 
 *   🌍  I'm based in Thailand
 *   ✉️  You can contact me at [t.siriuthen@gmail.com](mailto:t.siriuthen@gmail.com)
